@@ -1,0 +1,5 @@
+mode: set
+modulos/adress/adress.go:7.45,12.36 4 1
+modulos/adress/adress.go:12.36,13.32 1 1
+modulos/adress/adress.go:13.32,15.4 1 1
+modulos/adress/adress.go:17.2,17.16 1 1

@@ -1,0 +1,12 @@
+{
+    "cpu": "amd ryzen 7",
+    "motherboard": "msi b550 vdh pro wifi",
+    "ram": {
+        "model": "asgard 16gb ddr4 2600mhz",
+        "quantity": "2"
+    },
+    "storage": {
+        "disk1": "ssd nvme kingston 1tb",
+        "disk2": "ssd sata kingston 240gb"
+    }
+}
